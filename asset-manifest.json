@@ -1,8 +1,11 @@
 {
   "files": {
-    "main.css": "/static/css/main.43cc5d3f.css",
-    "main.js": "/static/js/main.b1ed387a.js",
+    "main.css": "/static/css/main.1e50f8cd.css",
+    "main.js": "/static/js/main.418cb95c.js",
     "static/media/logo.png": "/static/media/logo.e78e017b507560778335.png",
+    "static/media/wol.ico": "/static/media/wol.2c5de5dc533ed4d5f96a.ico",
+    "static/media/headerbar.png": "/static/media/headerbar.83a3944ae9bf718d3704.png",
+    "static/media/github.png": "/static/media/github.e922c0bc0b371ff0616a.png",
     "static/media/chinese.jpg": "/static/media/chinese.4e2ccb37cab27852d769.jpg",
     "static/media/koreans.jpg": "/static/media/koreans.4f9a00d4df4b10739aa3.jpg",
     "static/media/indians.jpg": "/static/media/indians.53a4c30af51757683841.jpg",
@@ -46,12 +49,13 @@
     "static/media/bolivians.webp": "/static/media/bolivians.a4ece8a9609d4da28358.webp",
     "static/media/centralamericans.webp": "/static/media/centralamericans.fd4bf99782e9c90efe51.webp",
     "static/media/haitians.webp": "/static/media/haitians.156ced6d6204d0eb2ef2.webp",
+    "static/media/impmod.ico": "/static/media/impmod.b7086f3f769b488e191b.ico",
     "index.html": "/index.html",
-    "main.43cc5d3f.css.map": "/static/css/main.43cc5d3f.css.map",
-    "main.b1ed387a.js.map": "/static/js/main.b1ed387a.js.map"
+    "main.1e50f8cd.css.map": "/static/css/main.1e50f8cd.css.map",
+    "main.418cb95c.js.map": "/static/js/main.418cb95c.js.map"
   },
   "entrypoints": [
-    "static/css/main.43cc5d3f.css",
-    "static/js/main.b1ed387a.js"
+    "static/css/main.1e50f8cd.css",
+    "static/js/main.418cb95c.js"
   ]
 }
